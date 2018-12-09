@@ -14,3 +14,5 @@ if __name__ == '__main__':
 #HTMLTestRunner
     runner=HTMLTestRunner.HTMLTestRunner(stream=file,title="第一个报告")
     runner.run(suite)
+    # 我就想看看成功了吗
+
